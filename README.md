@@ -49,7 +49,7 @@ or
 
 ```bash
 uv run --with mcp[cli] mcp run /Users/your-username/path/to/open-meteo-weather/server.py
-```bash
+```
 
 This will launch the server using standard input/output (`stdio`) for Claude Desktop compatibility.
 
