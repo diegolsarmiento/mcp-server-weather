@@ -43,8 +43,13 @@ pip install fastmcp httpx
 ## 🧪 Run the server
 
 ```bash
-python weather_server.py
+mcp dev server.py
 ```
+or 
+
+```bash
+uv run --with mcp[cli] mcp run /Users/your-username/path/to/open-meteo-weather/server.py
+```bash
 
 This will launch the server using standard input/output (`stdio`) for Claude Desktop compatibility.
 
