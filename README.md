@@ -1,8 +1,3 @@
-Sure! Here's a simple but clear `README.md` tailored for your [`mcp-server-weather`](https://github.com/diegolsarmiento/mcp-server-weather) repo:
-
----
-
-````markdown
 # 🌦️ MCP Weather Tool Server
 
 This is a local [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides weather data using the [Open-Meteo API](https://open-meteo.com/). It's designed to work with Claude Desktop and other MCP-compatible clients.
@@ -103,13 +98,3 @@ mcp-server-weather/
 ## 🧑‍🚀 Author
 
 Made by [@diegolsarmiento](https://github.com/diegolsarmiento)
-
-```
-
----
-
-Let me know if you'd like:
-- a `requirements.txt` generated,
-- `.env` support,
-- or if you want to switch to structured JSON outputs in the schema.
-```
